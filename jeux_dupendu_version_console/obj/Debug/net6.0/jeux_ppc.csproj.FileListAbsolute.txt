@@ -1,0 +1,15 @@
+C:\Users\nathan\Desktop\sharp\jeux_ppc\bin\Debug\net6.0\jeux_ppc.exe
+C:\Users\nathan\Desktop\sharp\jeux_ppc\bin\Debug\net6.0\jeux_ppc.deps.json
+C:\Users\nathan\Desktop\sharp\jeux_ppc\bin\Debug\net6.0\jeux_ppc.runtimeconfig.json
+C:\Users\nathan\Desktop\sharp\jeux_ppc\bin\Debug\net6.0\jeux_ppc.dll
+C:\Users\nathan\Desktop\sharp\jeux_ppc\bin\Debug\net6.0\jeux_ppc.pdb
+C:\Users\nathan\Desktop\sharp\jeux_ppc\obj\Debug\net6.0\jeux_ppc.csproj.AssemblyReference.cache
+C:\Users\nathan\Desktop\sharp\jeux_ppc\obj\Debug\net6.0\jeux_ppc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathan\Desktop\sharp\jeux_ppc\obj\Debug\net6.0\jeux_ppc.AssemblyInfoInputs.cache
+C:\Users\nathan\Desktop\sharp\jeux_ppc\obj\Debug\net6.0\jeux_ppc.AssemblyInfo.cs
+C:\Users\nathan\Desktop\sharp\jeux_ppc\obj\Debug\net6.0\jeux_ppc.csproj.CoreCompileInputs.cache
+C:\Users\nathan\Desktop\sharp\jeux_ppc\obj\Debug\net6.0\jeux_ppc.dll
+C:\Users\nathan\Desktop\sharp\jeux_ppc\obj\Debug\net6.0\refint\jeux_ppc.dll
+C:\Users\nathan\Desktop\sharp\jeux_ppc\obj\Debug\net6.0\jeux_ppc.pdb
+C:\Users\nathan\Desktop\sharp\jeux_ppc\obj\Debug\net6.0\jeux_ppc.genruntimeconfig.cache
+C:\Users\nathan\Desktop\sharp\jeux_ppc\obj\Debug\net6.0\ref\jeux_ppc.dll
