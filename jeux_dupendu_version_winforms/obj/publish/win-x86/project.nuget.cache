@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYuhtyAW/SmellK5hnwrGWsgpm/WB8NgT9Q68qr5gQyD7E7gQQDAQz5ODw9u3LH9fD3e7M5bdgMlSJtO/aJmGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nathan\\Desktop\\sharp\\ppcwin\\ppcwin\\ppcwin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nathan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.10\\microsoft.netcore.app.runtime.win-x86.5.0.10.nupkg.sha512",
+    "C:\\Users\\nathan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.10\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.10.nupkg.sha512",
+    "C:\\Users\\nathan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.10\\microsoft.aspnetcore.app.runtime.win-x86.5.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
